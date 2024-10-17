@@ -6,6 +6,7 @@ import TopBar from "@/components/shared/Topbar";
 import LeftSideBar from "@/components/shared/Leftbar";
 import RightSideBar from "@/components/shared/Rightbar";
 import BottomBar from "@/components/shared/Bottombar";
+import "@uploadthing/react/styles.css";
 
 const inter = Inter({subsets: ["latin"]})
 
